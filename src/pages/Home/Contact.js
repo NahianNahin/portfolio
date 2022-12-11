@@ -19,10 +19,10 @@ const Contact = () => {
 
     }
     return (
-        <section id='contact' className='contact_section'>
+        <section id='contact' className='contact_section p-5 '>
             <p className='text-6xl pt-20 text-center capitalize text-primary pb-10'>Get touch with me</p>
             <div className='flex justify-center items-center'>
-                <form className='w-[450px]' onSubmit={handleSubmit}>
+                <form className='w-[450px] lg:pb-20' onSubmit={handleSubmit}>
                     <div className="form-control">
                         <label className="label">
                             <span className="label-text text-primary">Email</span>

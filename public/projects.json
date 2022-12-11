@@ -17,6 +17,8 @@
             "MongoDB"
         ],
         "live_link":"https://residential-plumber.web.app/",
+        "client_side": "https://github.com/NahianNahin/residential-plumber-client",
+        "server_side": "https://github.com/NahianNahin/residential-plumber-server",
         "image":"https://i.ibb.co/8cTLPKb/webpage1.png"
         
     },
@@ -38,6 +40,8 @@
             "MongoDB"
         ],
         "live_link":"https://learn-with-nahin.web.app/",
+        "client_side": "https://github.com/NahianNahin/learn-with-nahin-client",
+        "server_side": "https://github.com/NahianNahin/learn-with-nahin-server",
         "image":"https://i.ibb.co/2WtYYtb/webpage2.png"
         
     },
@@ -59,6 +63,8 @@
             "MongoDB"
         ],
         "live_link":"https://lambent-horse-e34715.netlify.app/",
+        "client_side": "https://github.com/NahianNahin/quiz-time",
+        "server_side": "",
         "image":"https://i.ibb.co/rc5yspn/webpage3.png"
         
     }

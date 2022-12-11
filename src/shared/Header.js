@@ -5,11 +5,11 @@ const Header = () => {
 
     const allMenus =
         <>
-            <li><Link to='/' className='lg:text-primary text-2xl font-bold'>Home</Link></li>
-            <li><a href='#myprojects' className='lg:text-primary text-2xl font-bold'>My Projects</a></li>
-            <li><a href='#contact' className='lg:text-primary text-2xl font-bold'>Contact</a></li>
-            <li><a href='#about' className='lg:text-primary text-2xl font-bold'>About</a></li>
-            <li><Link to='/blogs' className='lg:text-primary text-2xl font-bold'>Blogs</Link></li>
+            <li><Link to='/' className='lg:text-primary text-xl font-bold'>Home</Link></li>
+            <li><a href='#myprojects' className='lg:text-primary text-xl font-bold'>My Projects</a></li>
+            <li><a href='#contact' className='lg:text-primary text-xl font-bold'>Contact</a></li>
+            <li><a href='#about' className='lg:text-primary text-xl font-bold'>About</a></li>
+            
         </>
     return (
         <div className="navbar">
@@ -22,7 +22,7 @@ const Header = () => {
                         {allMenus}
                     </ul>
                 </div>
-                <Link to='/' ><img src={name} alt="" /></Link>
+                <Link to='/' ><img className='w-52' src={name} alt="" /></Link>
             </div>
             <div className="navbar-end hidden lg:flex">
                 <ul className="menu menu-horizontal pr-20">
