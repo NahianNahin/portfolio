@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "project_name": "RESIDENTIAL PLUMBER",
+        "type": " A Individual Person Service Review Related Website",
+        "detial": [
+            "Developed a full-stack website in this way where it can detect the entrance of user and can show the result according to the user.",
+            "Users can view any services and give feedback. User also delete & update their feedback.",
+            "All the interaction information is saved in the database and is loaded from the database."
+        ],
+        "technology": [
+            "React",
+            "React Router",
+            "Tailwind CSS",
+            "Firebase Authentication",
+            "Node Js",
+            "MongoDB"
+        ],
+        "live_link":"https://residential-plumber.web.app/",
+        "image":"https://i.ibb.co/8cTLPKb/webpage1.png"
+        
+    },
+    {
+        "id": 2,
+        "project_name": "LEARN WITH NAHIN",
+        "type": "  A IT Course Related Website",
+        "detial": [
+            "Developed a full-stack website in this way where it can detect the entrance of user and can show the result according to the user.",
+            "Users can view any services and give feedback. User also delete & update their feedback.",
+            "All the interaction information is saved in the database and is loaded from the database."
+        ],
+        "technology": [
+            "React",
+            "React Router",
+            "Tailwind CSS",
+            "Firebase Authentication",
+            "Node Js",
+            "MongoDB"
+        ],
+        "live_link":"https://learn-with-nahin.web.app/",
+        "image":"https://i.ibb.co/2WtYYtb/webpage2.png"
+        
+    },
+    {
+        "id": 3,
+        "project_name": "QUIZ TIME",
+        "type": "A Quiz Related Web Application",
+        "detial": [
+            "Developed a full-stack website in this way where it can detect the entrance of user and can show the result according to the user.",
+            "Users can view any services and give feedback. User also delete & update their feedback.",
+            "All the interaction information is saved in the database and is loaded from the database."
+        ],
+        "technology": [
+            "React",
+            "React Router",
+            "Tailwind CSS",
+            "Firebase Authentication",
+            "Node Js",
+            "MongoDB"
+        ],
+        "live_link":"https://lambent-horse-e34715.netlify.app/",
+        "image":"https://i.ibb.co/rc5yspn/webpage3.png"
+        
+    }
+]

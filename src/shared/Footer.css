@@ -1,0 +1,7 @@
+.footer_section{
+    height: 25vh;
+    width: 100%;
+    background-image: linear-gradient(#ffcc00,#ffe680);
+    background-size: cover;
+    background-position: center;
+}
