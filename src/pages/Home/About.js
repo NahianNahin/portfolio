@@ -3,6 +3,7 @@ import myImage from '../../assets/Nahian.jpeg'
 const About = () => {
     return (
         <section id='about' className='bg-secondary lg:pb-10'>
+            
             <p className='text-5xl pt-20 text-center pb-10'>About Me</p>
             <div className='flex justify-center items-center'>
                 <div className='grid lg:grid-cols-2 gap-5 '>

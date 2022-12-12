@@ -1,15 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import name from '../assets/NAHIAN .png'
-const Header = () => {
+const SharedHeader = () => {
 
     const allMenus =
         <>
-            <li><Link to='/' className='lg:text-primary text-xl font-bold'>Home</Link></li>
-            <li><a href='#myprojects' className='lg:text-primary text-xl font-bold'>My Projects</a></li>
-            <li><a href='#contact' className='lg:text-primary text-xl font-bold'>Contact</a></li>
-            <li><a href='#about' className='lg:text-primary text-xl font-bold'>About</a></li>
-            <li><Link to='/blogs' className='lg:text-primary text-xl font-bold'>Blogs</Link></li>
+            <li><Link to='/' className='lg:text-primary text-xl font-bold'>Go To Home</Link></li>
+
             
         </>
     return (
@@ -36,4 +33,4 @@ const Header = () => {
     );
 };
 
-export default Header;
+export default SharedHeader;
